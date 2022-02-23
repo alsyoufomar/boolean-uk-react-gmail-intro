@@ -8,7 +8,7 @@
     180px 1fr;
 }
 
-.app > .header {
+/* .app > .header {
   grid-area: header;
 
   display: grid;
@@ -41,7 +41,7 @@
   background-color: rgb(240, 240, 240);
   padding: 0 10px;
   font-size: 1rem;
-}
+} */
 
 .app > .left-menu {
   grid-area: left-menu;
