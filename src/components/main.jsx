@@ -1,10 +1,11 @@
 import React from 'react';
-// import '../styles/app.css'
+import Nav from './main-nav.jsx'
+// import Send from './Send'
 import flaticonWelcomeImage from '../assets/images/flaticon-welcome-image.png'
 import backArrow from '../assets/icons/back-arrow.png'
 import rateStarButton from '../assets/icons/rate-star-button.png'
 import rubbishButton from '../assets/icons/rubbish-bin-delete-button.png'
-import Nav from './main-nav'
+import '../styles/main.css'
 
 export default function Main () {
   return (
