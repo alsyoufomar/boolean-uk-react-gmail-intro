@@ -1,6 +1,5 @@
 import React from 'react';
 import Nav from './main-nav.jsx'
-// import Send from './Send'
 import flaticonWelcomeImage from '../assets/images/flaticon-welcome-image.png'
 import backArrow from '../assets/icons/back-arrow.png'
 import rateStarButton from '../assets/icons/rate-star-button.png'
